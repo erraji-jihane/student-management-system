@@ -1,0 +1,36 @@
+[
+    {
+        "student_id": 1,
+        "name": "jihane",
+        "courses": [
+            {
+                "course_name": "csc 1401",
+                "grade": 80.0,
+                "letter": "B-",
+                "credits": 4
+            },
+            {
+                "course_name": "phy 1401",
+                "grade": 94.0,
+                "letter": "A",
+                "credits": 4
+            }
+        ],
+        "total_credits": 8,
+        "weighted_gpa": 3.35
+    },
+    {
+        "student_id": 2,
+        "name": "imane",
+        "courses": [
+            {
+                "course_name": "phy 1401",
+                "grade": 93.0,
+                "letter": "A",
+                "credits": 4
+            }
+        ],
+        "total_credits": 4,
+        "weighted_gpa": 4.0
+    }
+]
